@@ -1,0 +1,5 @@
+(executable
+ (public_name minigrep)
+ (name minigrep)
+ (modes byte exe)
+ (libraries minigrep str))
